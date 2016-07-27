@@ -64,12 +64,19 @@ footer ul li{
 	display:inline;
 	text-align:center;
 }
-
+}
+.flota{
+	float: right;
+	position: relative;
+	margin-top: 20px;
+}
 .sec{
 	color: blue;
 }
 .hr{
 	width: 250px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 .tamaño{
 	width: 10px;
